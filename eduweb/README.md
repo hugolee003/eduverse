@@ -1,54 +1,43 @@
 <div align="center">
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/eduweb)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/eduweb?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/eduweb?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/x26bQPxcFX4?style=social)](https://youtu.be/x26bQPxcFX4)
-
+ <div>
+  <p align="center">
+    <a href="https://github.com/hugolee003/eduverse#readme"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://eduverse-omega.vercel.app/">Demo</a>
+    ·
+    <a href="https://github.com/hugolee003/eduverse/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/hugolee/eduverse/issues">Request Feature</a>
+  </p>
+</div>
 <br />
   <br />
 
-<h2 align="center">eduweb - Education Website</h2>
+<h2 align="center">Eduverse - Education Website</h2>
+<!-- About the website -->
 
-  Eduverse is a fully responsive education website, `<br />`Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  `<a href="https://codewithsadee.github.io/eduweb/"><strong>`➥ Live Demo`</strong></a>`
-
-</div>
-
+&mdash; Eduverse is a fully responsive education website, 
 <br />
+Responsive on all devices, built using HTML, CSS, and JavaScript.
 
-### Demo Screeshots
+<p align="right">
+  <a href="#readme-top">
+    back to top
+  </a>
+</p>
 
-![EduWeb Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+  <a href="https://eduverse-omega.vercel.app/"><strong>`➥ Live Demo`</strong></a>
 
-Before you begin, ensure you have met the following requirements:
+  #### Clone this repo
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **EduWeb** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/eduweb.git
+```sh
+git clone https://github.com/hugolee003/blogify.git
 ```
 
-Windows:
+#### Install project dependencies
 
-```bash
-git clone https://github.com/codewithsadee/eduweb.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+```sh
+npm install
